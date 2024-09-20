@@ -5,7 +5,7 @@
 ## Установка:
 1. Клонируйте репозиторий:
 ```
-https://github.com/ArtemMTim/Course_Project_3
+https://github.com/ArtemMTim/WebShop-project
 ```
 2. Установите зависимости:
 ```
